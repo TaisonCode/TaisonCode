@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaisonCode
 - 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev basics.
 - 💞️ I’m looking to collaborate on whatever i can, as i learn.
 - 📫 How to reach me ...
 
